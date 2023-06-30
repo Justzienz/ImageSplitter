@@ -18,6 +18,13 @@ pip install pillow argparse numpy
 
 ## Usage
 
+### Clone and move to this repository.
+
+```bash
+git clone https://github.com/Justzienz/ImageSplitter/
+cd ImageSplitter
+```
+
 ### Splitting an Image
 
 To split an image, run the following command:
