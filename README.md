@@ -26,7 +26,7 @@ To split an image, run the following command:
 python split.py -n <number_of_images> -path <path_to_image>
 ```
 
-Or you can simply use; 
+Or you can simply use:
 
 ```
 python split.py
