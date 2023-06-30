@@ -39,15 +39,14 @@ python merge.py
 The merged image will be saved as `final.png`.
 
 ## Example
-# The original image;
+### The original image;
 ![Original Image](examples/original.jpg) 
-# Will turn into something like this;
+### Will turn into something like this;
 ![Split Image](examples/split.png) 
+(splitted into 100 fragments)
+
 ![Split Images](examples/splits.jpg) 
-
-## Warning 
-
-The images in pixels folder is not going to be removed automatically. It can cause conflicts if you first create 100 images, and then attempt to create smaller number of images.
+(splitted into 10 fragments)
 
 ## Disclaimer
 
