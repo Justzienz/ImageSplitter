@@ -26,6 +26,12 @@ To split an image, run the following command:
 python split.py -n <number_of_images> -path <path_to_image>
 ```
 
+Or you can simply use; 
+
+```
+python split.py
+```
+
 By default, `number_of_images` is set to 100 and `path_to_image` is set to `image.jpg`. The split images will be saved in the `pixels/` folder.
 
 ### Merging Images
